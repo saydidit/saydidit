@@ -1,10 +1,13 @@
 <!--
 <a href="https://dsc.bio/27eyesonme"><img src=""  /></a>
-<br/> --!>
+<br/> 
+--!>
 
 <h1 align="center"> About me 🙇‍‍♂️ </h1>
 
-  Yo 👋, **say** there, also known as **27eyesonme**, I'm a pro-palestine student 🇵🇸, interested in cybersecurity 🌐 and software development 👨‍💻, I'm also preparing some projects ⚡: 
+
+
+<P> Yo 👋, say there, also known as 27eyesonme, I'm a pro-palestine student 🇵🇸, interested in cybersecurity 🌐 and software development 👨‍💻, I'm also preparing some projects ⚡: </p>
 
 <br />
 
@@ -19,10 +22,7 @@
 &nbsp;
 \
 &nbsp;
-\
-&nbsp;
-\
-&nbsp;
+
 
 
 <h1 align="center"> My skills 📚 </h1>
@@ -30,13 +30,12 @@
 <div align="center">
  <a href="https://dsc.bio/27eyesonme">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,php,mysql,linux&theme=light">
-</a>
+ </a>
 </div>
-<br />
 
----
+***
 
- 🔎 Find me on :     
+🔎 Find me on :     
  <a href="https://dsc.bio/yasss">
   <img src="https://img.shields.io/badge/-Discord-lightgrey?logo=discord">
 </a>
@@ -51,10 +50,7 @@
 
 
 
-\
-&nbsp;
-\
-&nbsp;
+
 
 
 
@@ -68,5 +64,5 @@
 
 <br/>
 
-_This [README.md](https://github.com/saydidit/saydidit "Say's presentation") can be edited by his author at any moment._
+This [README.md](https://github.com/saydidit/saydidit "Say's presentation") can be edited by his author at any moment.
 
